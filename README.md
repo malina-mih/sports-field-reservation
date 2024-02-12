@@ -34,10 +34,3 @@ The Sports Field Reservation System is a C++ application built using the wxWidge
 
 - Reservations are stored in a text file (`reservations.txt`). The application reads from and writes to this file to persist reservation data.
 
-## Contributing
-
-Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. We welcome any improvements or enhancements to make the system more robust and user-friendly.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
